@@ -14,6 +14,8 @@ Educational Power BI dashboard exploring library loans, membership tiers, fines,
 
 </details>
 
+<img width="607" height="287" alt="image" src="https://github.com/user-attachments/assets/4cf7efb6-066a-4b47-9c27-1e584057c14a" />
+
 ---
 
 ## 1. KPIs Principales / Core KPIs
